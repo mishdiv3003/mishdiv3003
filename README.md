@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mishdiv3003
 - 👀 I’m a frontend developer.
-- 🌱 I’m currently improving my JS and React skills.
+- 🌱 I’m always learning something new.
 - 📫 mishdiv1994@gmail.com
 
 <!---
